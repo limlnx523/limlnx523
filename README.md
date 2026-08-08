@@ -1,34 +1,34 @@
-# limlnx523
+# Hi there 👋 I'm limlnx523
 
-浙江师范大学 教育技术学（信息科技与AI教育）准大一
-数学和计算机是我的强项。目标是保研到AI方向，毕业后进大厂。
+> 2026 级本科生 · 从零开始积累：C / 数学 / 数据结构与算法
 
-## 目前在做
+一个正在认真学编程的大一新生。相信"把每天的练习提交到 GitHub"，用连续的 commit 记录自己的成长。
 
-- 自学 Python 和数据结构
-- 刷 LeetCode，从 Easy 开始
-- 大一暑假计划去杭二中实习，做AI教学工具
-- 持续更新这个仓库，记录大学四年的成长
+## 🌱 正在学
 
-## 技术栈
+- C 语言（基础 → 指针 → 数据结构）
+- 高等数学 / 数学分析（给算法打地基）
+- 数据结构与算法 + LeetCode
+- Git / GitHub 工作流
 
-- Python（学习中）
-- Git / VS Code / Markdown
-- 数据结构与算法（入门中）
-- 计划学：机器学习 -> PyTorch -> 深度学习
+## 🗺️ 大学四年主线
 
-## 项目
+1. **大一**：C 语言、数学、算法入门，形成每日编码习惯
+2. **大二**：数据结构、操作系统、计算机网络、数据库
+3. **大三**：定方向（后端 / 数据 / AI）+ 做项目 + 实习
+4. **大四**：毕业设计 + 求职 / 深造
 
-| 项目 | 说明 |
-|------|------|
-| LeetCode-Solutions | 刷题记录，分类整理，附解题思路 |
-| Learning-Notes | AI学习笔记，边学边记 |
+## 📦 仓库
 
-## GitHub 数据
+- `cs-learning` — 学习笔记与代码练习（C / 算法 / 数学）
+- 更多项目在路上…
 
-[![limlnx523's GitHub stats](https://github-readme-stats.vercel.app/api?username=limlnx523&show_icons=true&theme=vue)](https://github.com/limlnx523)
+## 🎯 目标
 
-## 联系我
+- LeetCode 300+（持续更新中）
+- 每天至少一个 commit
+- 大学期间完成 2–3 个拿得出手的项目
 
-- Email: 3458020042@qq.com
-- GitHub: github.com/limlnx523
+## 📫 联系我
+
+✉️ 3458020042@qq.com
